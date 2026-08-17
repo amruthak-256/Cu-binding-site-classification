@@ -7,14 +7,14 @@ This repository contains the code, input/output files, and trained models suppor
 Hierarchical agglomerative clustering of structural and biochemical features of Cu(I) and Cu(II) binding sites, resulting in a **4+9 Cu binding site motif classification framework**.
 
 ```text
-01_clustering/
+Part_1_Clustering
 ├── Data/
 │   ├── Cu1-ids.csv
 │   ├── Cu2-ids.csv
 │   ├── input.csv
 │   └── output.csv
 │
-└── code/
+└── Scripts/
     ├── Data_extraction.ipynb
     ├── Featurization.ipynb
     ├── Agglomerative-clustering.ipynb
@@ -27,7 +27,7 @@ Hierarchical agglomerative clustering of structural and biochemical features of 
 Machine-learning classifier for identifying copper-binding site subclasses based on the 4+9 classification framework.
 
 ```text
-02_classification/
+Part_1_Classifier
 ├── Data/
 │   ├── binding_sites.xlsx
 │   ├── nonredundant_binding_sites_water_fixed.csv
@@ -35,7 +35,7 @@ Machine-learning classifier for identifying copper-binding site subclasses based
 │   ├── feature_scaler.pkl
 │   └── label_mapping.pkl
 │
-└── Code/
+└── Scripts/
     ├── CD-Hit.ipynb
     └── Classifier.ipynb
 
