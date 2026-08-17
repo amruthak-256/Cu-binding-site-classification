@@ -24,7 +24,7 @@ Hierarchical agglomerative clustering of structural and biochemical features of 
 
 ## 2. Prediction of copper-binding site class
 
-Machine-learning classifier for identifying copper-binding site subclasses based on the 9+4 classification framework.
+Machine-learning classifier for identifying copper-binding site subclasses based on the 4+9 classification framework.
 
 ```text
 02_classification/
