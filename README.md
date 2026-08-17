@@ -4,7 +4,7 @@ This repository contains the code, input/output files, and trained models suppor
 
 ## 1. Clustering of copper-binding sites
 
-Hierarchical agglomerative clustering of structural and biochemical features of Cu(I) and Cu(II) binding sites, resulting in a **4+9 subclass classification framework**.
+Hierarchical agglomerative clustering of structural and biochemical features of Cu(I) and Cu(II) binding sites, resulting in a **4+9 Cu binding site motif classification framework**.
 
 ```text
 01_clustering/
