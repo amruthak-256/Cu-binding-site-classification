@@ -27,7 +27,7 @@ Part_1_Clustering
 Machine-learning classifier for identifying copper-binding site subclasses based on the 4+9 classification framework.
 
 ```text
-Part_1_Classifier
+Part_2_Classifier
 ├── Data/
 │   ├── binding_sites.xlsx
 │   ├── nonredundant_binding_sites_water_fixed.csv
