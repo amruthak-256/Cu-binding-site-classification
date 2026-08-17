@@ -1,6 +1,6 @@
-# Classification of copper-binding sites using machine-learning approaches
+# Decoding the Structural Diversity of Mononuclear Copper Binding Sites
 
-This repository contains the code, input/output files, and trained models supporting the classification of copper-binding sites described in the article titled **Decoding the Structural Diversity of Mononuclear Copper Binding Sites**.
+This repository contains the code, input/output files, and trained models supporting the classification of copper-binding sites described in the article.
 
 ## 1. Clustering of copper-binding sites
 
